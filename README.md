@@ -89,7 +89,7 @@ http://localhost/siege-slot/login.php
 --Logging out deletes the cookie and returns the user to login.php.
 
 ## 📦 File Structure
-
+```
 --**siege-slot**/
 │
 ├── config.php            # Database connection
@@ -102,6 +102,7 @@ http://localhost/siege-slot/login.php
 ├── css/                  # Stylesheets
 ├── js/                   # Scripts (optional)
 └── README.md             # Project documentation
+```
 
 ##🏆 Future Enhancements
 
